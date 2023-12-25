@@ -344,5 +344,5 @@ async function _quickTest() {
 }
 
 _quickTest()
-  .then(() => conn.logger.info('iniciando Kasuma-Bot'))
+  .then(() => conn.logger.info('inisialisasi BuMiRaRa-Bot'))
   .catch(console.error)
