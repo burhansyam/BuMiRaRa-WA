@@ -1,0 +1,12 @@
+[
+	{
+		"value": "toto/hk",
+		"toto": "hk",
+		"isPay": false
+	},
+	{
+		"value": "toto/sgp",
+		"toto": "sgp",
+		"isPay": false
+	}
+]
