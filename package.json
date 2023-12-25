@@ -1,7 +1,7 @@
 {
     "name": "BuMiRaRa-Bot",
-    "version": "1.0",
-    "description": "hola, este es el repositorio oficial de Kasuma-Bot.",
+    "version": "2.1.2",
+    "description": "Crut di peyutmu....",
     "creator": "@burhansyam_",
     "creatornumero": "+6282242228600",
     "colaborador": "Sebastian",
@@ -21,16 +21,16 @@
     "keywords": [
         "whatsap-bot"
     ],
-    "homepage": "https://github.com/burhansyam/BumiRaRa-MD",
+    "homepage": "https://github.com/burhansyam/BuMiRaRa-WA",
     "author": {
         "name": "Kasuma-Bot"
     },
     "repository": {
-        "type": "git+https://github.com/burhansyam/BumiRaRa-MD.git",
+        "type": "git+https://github.com/burhansyam/BuMiRaRa-WA.git",
         "url": ""
     },
     "bugs": {
-        "url": "https://github.com/burhansyam/BumiRaRa-MD/issues"
+        "url": "https://github.com/burhansyam/BuMiRaRa-WA/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
