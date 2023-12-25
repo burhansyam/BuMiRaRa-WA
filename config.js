@@ -3,8 +3,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['593995668111', 'Guillermo', true],
-  ['573014953662', 'Sebastian', false],
+  ['6282242228600', 'Burhan', true],
+  ['6281808032100', 'Syam', true],
 
 ] //Numeros de owner 
 
@@ -30,8 +30,8 @@ global.tiktokkey = ['GIf4o4qJ']
 global.apivisionary = ["https://visionaryapi.boxmine.xyz"]
 
 // Sticker WM
-global.packname = 'Kasuma-Bot'
-global.author = 'Kasuma-Bot 1.0'
+global.packname = 'BuMiRaRa-Bot'
+global.author = 'BuMiRaRa-Bot 1.0'
 global.waig = 'Sígueme en Instagram\nhttps://www.instagram.com/traxnox/\n'
 global.wagp = 'https://chat.whatsapp.com/EkYXUIw7AY4A8wPPghGPCs'
 global.wagit = 'https://github.com/ByTraxnox-X/KasumaBot-MD'
